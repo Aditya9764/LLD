@@ -3,3 +3,12 @@ https://takeuforward.org/system-design/complete-system-design-roadmap-with-video
 System Design is defined as a process of creating an architecture for different components, interfaces, and modules of the system and providing corresponding data helpful in implementing such elements in systems.
 
 What is Systems Design. Definition: Systems design is the process of defining elements of a system like modules, architecture, components and their interfaces and data for a system based on the specified requirements
+System Design is the process of designing the architecture, components, and interfaces for a system so that it meets the end-user requirements.
+Software design is a mechanism to transform user requirements into some suitable form, which helps the programmer in software coding and implementation.
+
+Scalability in System Design.
+Scalability, in simple terms, means your app’s ability to handle more and more users or data without breaking 
+
+Horizontal scaling , Vertical Scaling 
+horizontal scaling refers to adding additional nodes, 
+vertical scaling describes adding more power to your current machines (Single big machine).
